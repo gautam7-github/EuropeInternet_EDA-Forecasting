@@ -1,12 +1,13 @@
 
-# Internet Revolution in EU (2019-2022)
+# Week 39 - 2022
+
+### Internet Revolution in EU (2019-2022)
 
 (Courtesy of Makeover Monday Program)
 
-## Week 39 - 2022
 
 
-Pipeline:
+### Pipeline:
 - Data Loading
 - Data Cleaning
 - Data Indexing on Country and Quarters
