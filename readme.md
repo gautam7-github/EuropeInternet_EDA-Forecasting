@@ -1,4 +1,7 @@
-# Courtesy of Makeover Monday Program
+
+# Internet Revolution in EU (2019-2022)
+
+(Courtesy of Makeover Monday Program)
 
 ## Week 39 - 2022
 
@@ -12,7 +15,3 @@ Pipeline:
 - Time Series Forecasting on France Data using SARIMAX Model (Shit Results - Less Samples)
 
 
-
-# Sample
-Check out week39.pbix file!
-![Week39](week39.jpg)
